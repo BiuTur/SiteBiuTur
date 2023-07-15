@@ -30,9 +30,11 @@ info00.onclick = function() {
     posts.style.display = 'block';
     html.style.overflow = 'hidden';
     infimg2.innerHTML = `<img class="infimg" src="../img/artegrill1.jpg">`;
-    infimg3.innerHTML = `<img class="infimg" src="../img/artegrill2.jpg">`;
+    infimg3.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
+    infimg4.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
+    infimg5.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
     inftxt.innerHTML += `Arte & Grill`;
-    inftxtcont.innerHTML += Comida regional farta e bem temperada pode ser facime encontrada no restaurante. Em funcionamento há mais de 40 anos  apresenta a mesma qualidade da ma localizada em Olinda. O Peixe ao molho de camarão pecialidade da casa, seguido da carne de sol sertaneja, decorada com pimentões e ervilha ao molho de ta arroz, farofa de jerimum, feijão e macaxeira frita. També ficam atrás o cozido de chambaril com arroz, piro e o galeto na brasa, servida para três pessoas.`;
+    inftxtcont.innerHTML += `O Restaurante Art Grill de Olinda com um cardápio Regional há mais de 20 anos de existência, é um dos restaurantes mais bonitos do Alto da Sé de Olinda, especialista em frutos do mar e comidas regionais e com uma excelente Peixada ao molho de camarão, tem uma vista privilegiada da cidade historica e instalações aconchegantes. Tudo isso, somado a um variado cardápio, faz do Art Gril  um  lugar perfeito para suas refeições.`;
     inftxth.innerHTML += `Das 8h ás 18h`;
     inftxtd.innerHTML += `(Terça - Domingo)`;
 
@@ -53,7 +55,7 @@ info00.onclick = function() {
     align-items: center;
     transition: 0.2s;
     "></div>
-    <a target="_blank" href="https://www.instagram.com/olindaartgrill/" id="cvisit" class="c wats tw" style="position: relative;top: 181px;left: -15px;cursor: pointer;">
+    <a target="_blank" href="" id="cvisit" class="c wats tw" style="position: relative;top: 181px;left: -15px;cursor: pointer;">
         <h1 class="ctw t">Visitar</h1></a>
 </label>`;
 
@@ -69,7 +71,7 @@ info02.onclick = function() {
     infimg4.innerHTML = `<img class="infimg" src="../img/boiebrasa4.jpg">`;
     infimg5.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
     inftxt.innerHTML += `Churrascaria Boi e Brasa`;
-    inftxtcont.innerHTML += `O Boi & Brasa churrascaria é um lugar para quem ama uma boa carne, saborei com amigos e sua família um pouco da nossa culinária, tudo isso em um ambiente climatizado e localizado em uma das avenidas mias bem localizadas de Olinda. Gostou? Então você é o nosso convidado para vir compartilhar com a gente bons momentos.`;
+    inftxtcont.innerHTML += `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.`;
     inftxth.innerHTML += "";
     inftxtd.innerHTML += "";
 
@@ -100,14 +102,14 @@ info03.onclick = function() {
     infimg.innerHTML = `<img class="infimg" src="../img/cantinhodase2.jpg">`;
     posts.style.display = 'block';
     html.style.overflow = 'hidden';
-    infimg2.innerHTML = `<img class="infimg" src="../img/cantinhodase1.jpg">`;
-    infimg3.innerHTML = `<img class="infimg" src="../img/cantinhodase2.jpg">`;
+    infimg2.innerHTML = `<img class="infimg" src="../img/cantinhodase2.jpg">`;
+    infimg3.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
     infimg4.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
     infimg5.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
     inftxt.innerHTML += `Cantinho da Sé`;
     inftxtcont.innerHTML += `Comida regional farta e bem temperada pode ser facime encontrada no restaurante. Em funcionamento há mais de 40 anos  apresenta a mesma qualidade da ma localizada em Olinda. O Peixe ao molho de camarão pecialidade da casa, seguido da carne de sol sertaneja, decorada com pimentões e ervilha ao molho de ta arroz, farofa de jerimum, feijão e macaxeira frita. També ficam atrás o cozido de chambaril com arroz, piro e o galeto na brasa, servida para três pessoas.`;
     inftxth.innerHTML += "";
-    inftxtd.innerHTML += "";
+    inftxtd.innerHTML += "Terça a quinta, das 11h às 23h; sexta e sábado, das liha go, das 11h às 18h.";
 
     visit.innerHTML += `                        <label for="check" class="checkInfo">
     <div class="info11" id="checkvisit" style="
@@ -126,7 +128,7 @@ info03.onclick = function() {
     align-items: center;
     transition: 0.2s;
     "></div>
-    <a target="_blank" href="https://www.instagram.com/cantinhodaseolinda/" id="cvisit" class="c wats tw" style="position: relative;top: 181px;left: -15px;cursor: pointer;">
+    <a target="_blank" href="" id="cvisit" class="c wats tw" style="position: relative;top: 181px;left: -15px;cursor: pointer;">
         <h1 class="ctw t">Visitar</h1></a>
 </label>`;
 }
@@ -136,7 +138,7 @@ info04.onclick = function() {
     infimg.innerHTML = `<img class="infimg" src="../img/galeriasaosalvador.jpg">`;
     posts.style.display = 'block';
     html.style.overflow = 'hidden';
-    infimg2.innerHTML = `<img class="infimg" src="../img/galeriasaosalvador.jpg">`;
+    infimg2.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
     infimg3.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
     infimg4.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
     infimg5.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
@@ -198,7 +200,7 @@ info05.onclick = function() {
     align-items: center;
     transition: 0.2s;
     "></div>
-    <a target="_blank" href="http://www.imaginariobrasileiro.com.br/" id="cvisit" class="c wats tw" style="position: relative;top: 181px;left: -15px;cursor: pointer;">
+    <a target="_blank" href="www.imaginariobrasileiro.com.br" id="cvisit" class="c wats tw" style="position: relative;top: 181px;left: -15px;cursor: pointer;">
         <h1 class="ctw t">Visitar</h1></a>
 </label>`;
 }
@@ -450,7 +452,7 @@ info019.onclick = function() {
     align-items: center;
     transition: 0.2s;
     "></div>
-    <a target="_blank" href="" id="cvisit" class="c wats tw" style="position: relative;top: 181px;left: -15px;cursor: pointer;">
+    <a target="_blank" href="https://www.instagram.com/reel/CtuZ3psoFOh/?igshid=MTc4MmM1YmI2Ng==" id="cvisit" class="c wats tw" style="position: relative;top: 181px;left: -15px;cursor: pointer;">
         <h1 class="ctw t">Visitar</h1></a>
 </label>`;
 }
@@ -483,11 +485,13 @@ info001.onclick = function() {
     posts.style.display = 'block';
     html.style.overflow = 'hidden';
     infimg2.innerHTML = `<img class="infimg" src="../img/artegrill1.jpg">`;
-    infimg3.innerHTML = `<img class="infimg" src="../img/artegrill2.jpg">`;
+    infimg3.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
+    infimg4.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
+    infimg5.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
     inftxt.innerHTML += `Arte & Grill`;
     inftxtcont.innerHTML += `O Restaurante Art Grill de Olinda com um cardápio Regional há mais de 20 anos de existência, é um dos restaurantes mais bonitos do Alto da Sé de Olinda, especialista em frutos do mar e comidas regionais e com uma excelente Peixada ao molho de camarão, tem uma vista privilegiada da cidade historica e instalações aconchegantes. Tudo isso, somado a um variado cardápio, faz do Art Gril  um  lugar perfeito para suas refeições.`;
-    inftxth.innerHTML += "";
-    inftxtd.innerHTML += "";
+    inftxth.innerHTML += `Das 8h ás 18h`;
+    inftxtd.innerHTML += `(Terça - Domingo)`;
 
     visit.innerHTML += `                        <label for="check" class="checkInfo">
     <div class="info11" id="checkvisit" style="
@@ -506,7 +510,7 @@ info001.onclick = function() {
     align-items: center;
     transition: 0.2s;
     "></div>
-    <a target="_blank" href="https://www.instagram.com/olindaartgrill/" id="cvisit" class="c wats tw" style="position: relative;top: 181px;left: -15px;cursor: pointer;">
+    <a target="_blank" href="" id="cvisit" class="c wats tw" style="position: relative;top: 181px;left: -15px;cursor: pointer;">
         <h1 class="ctw t">Visitar</h1></a>
 </label>`;
 }
@@ -518,8 +522,9 @@ info002.onclick = function() {
     infimg2.innerHTML = `<img class="infimg" src="../img/boiebrasa2.jpg">`;
     infimg3.innerHTML = `<img class="infimg" src="../img/boiebrasa3.jpg">`;
     infimg4.innerHTML = `<img class="infimg" src="../img/boiebrasa4.jpg">`;
+    infimg5.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
     inftxt.innerHTML += `Churrascaria Boi e Brasa`;
-    inftxtcont.innerHTML += `O Boi & Brasa churrascaria em Olinda é conhecido por sua deliciosa carne e atmosfera climatizada. É um local ideal para desfrutar da culinária com amigos e familiares, localizado em uma avenida privilegiada da cidade.`;
+    inftxtcont.innerHTML += `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.`;
     inftxth.innerHTML += "";
     inftxtd.innerHTML += "";
 
@@ -550,11 +555,13 @@ info003.onclick = function() {
     posts.style.display = 'block';
     html.style.overflow = 'hidden';
     infimg2.innerHTML = `<img class="infimg" src="../img/cantinhodase2.jpg">`;
-    infimg3.innerHTML = `<img class="infimg" src="../img/cantinhodase2.jpg">`;
+    infimg3.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
+    infimg4.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
+    infimg5.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
     inftxt.innerHTML += `Cantinho da Sé`;
     inftxtcont.innerHTML += `Comida regional farta e bem temperada pode ser facime encontrada no restaurante. Em funcionamento há mais de 40 anos  apresenta a mesma qualidade da ma localizada em Olinda. O Peixe ao molho de camarão pecialidade da casa, seguido da carne de sol sertaneja, decorada com pimentões e ervilha ao molho de ta arroz, farofa de jerimum, feijão e macaxeira frita. També ficam atrás o cozido de chambaril com arroz, piro e o galeto na brasa, servida para três pessoas.`;
     inftxth.innerHTML += "";
-    inftxtd.innerHTML += "";
+    inftxtd.innerHTML += "Terça a quinta, das 11h às 23h; sexta e sábado, das liha go, das 11h às 18h.";
 
     visit.innerHTML += `                        <label for="check" class="checkInfo">
     <div class="info11" id="checkvisit" style="
@@ -573,7 +580,7 @@ info003.onclick = function() {
     align-items: center;
     transition: 0.2s;
     "></div>
-    <a target="_blank" href="https://www.instagram.com/cantinhodaseolinda/" id="cvisit" class="c wats tw" style="position: relative;top: 181px;left: -15px;cursor: pointer;">
+    <a target="_blank" href="" id="cvisit" class="c wats tw" style="position: relative;top: 181px;left: -15px;cursor: pointer;">
         <h1 class="ctw t">Visitar</h1></a>
 </label>`;
 }
@@ -583,7 +590,9 @@ info0019.onclick = function() {
     posts.style.display = 'block';
     html.style.overflow = 'hidden';
     infimg2.innerHTML = `<img class="infimg" src="../img/garagemtapioca2.jpg">`;
-    infimg3.innerHTML = `<img class="infimg" src="../img/garagemtapioca1.jpg">`;
+    infimg3.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
+    infimg4.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
+    infimg5.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
     inftxt.innerHTML += `Garagem Tapiocaria`;
     inftxtcont.innerHTML += `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.`;
     inftxth.innerHTML += "";
@@ -650,7 +659,7 @@ info005.onclick = function() {
     infimg.innerHTML = `<img class="infimg" src="../img/imaginario1.jpg">`;
     posts.style.display = 'block';
     html.style.overflow = 'hidden';
-    infimg2.innerHTML = `<img class="infimg" src="../img/imaginário1.jpg">`;
+    infimg2.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
     infimg3.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
     infimg4.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
     infimg5.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
@@ -676,7 +685,7 @@ info005.onclick = function() {
     align-items: center;
     transition: 0.2s;
     "></div>
-    <a target="_blank" href="http://www.imaginariobrasileiro.com.br/" id="cvisit" class="c wats tw" style="position: relative;top: 181px;left: -15px;cursor: pointer;">
+    <a target="_blank" href="www.imaginariobrasileiro.com.br" id="cvisit" class="c wats tw" style="position: relative;top: 181px;left: -15px;cursor: pointer;">
         <h1 class="ctw t">Visitar</h1></a>
 </label>`;
 }
