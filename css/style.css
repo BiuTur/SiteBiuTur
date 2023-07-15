@@ -952,6 +952,7 @@ h1.legobulls:hover {
     width: 400px;
     display: inline-block;
     border-radius: 20px;
+    object-fit: cover;
 
 }
 .c.what {
@@ -1712,6 +1713,7 @@ a.c.wats:after {
 }
 .album img {
     width: 700px;
+    height: 400px;
     border-radius: 10px;
 }
 
@@ -1936,6 +1938,7 @@ a.c.wats.tw:after {
     }
     .c.container.d.tw.mob {
         display: flex;
+        max-width: 249px;
     }
     .c.container.d.tw.one {
         display: none;
