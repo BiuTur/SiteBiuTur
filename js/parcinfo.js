@@ -1,3 +1,6 @@
+window.onload = function() {
+    posts.style.display = 'none';
+};
 const posts = document.querySelector(".infoAdd")
 const html = document.querySelector(".html")
 
@@ -16,11 +19,6 @@ const inftxtd = document.querySelector(".inftxtd")
 const slidWidth = document.querySelector("#infimg")
 
 const visit = document.getElementById('vistw');
-
-
-window.onload = function() {
-    posts.style.display = 'none';
-};
 
 //Versão PC
 
