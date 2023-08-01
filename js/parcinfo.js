@@ -522,7 +522,7 @@ info002.onclick = function() {
     infimg4.innerHTML = `<img class="infimg" src="../img/boiebrasa4.jpg">`;
     infimg5.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
     inftxt.innerHTML += `Churrascaria Boi e Brasa`;
-    inftxtcont.innerHTML += `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.`;
+    inftxtcont.innerHTML += `O Boi & Brasa churrascaria em Olinda é conhecido por sua deliciosa carne e atmosfera climatizada. É um local ideal para desfrutar da culinária com amigos e familiares, localizado em uma avenida privilegiada da cidade.`;
     inftxth.innerHTML += "";
     inftxtd.innerHTML += "";
 
