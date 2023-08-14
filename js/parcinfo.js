@@ -101,9 +101,9 @@ info03.onclick = function() {
     posts.style.display = 'block';
     html.style.overflow = 'hidden';
     infimg2.innerHTML = `<img class="infimg" src="../img/cantinhodase2.jpg">`;
-    infimg3.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
-    infimg4.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
-    infimg5.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
+    infimg3.innerHTML = `<img class="infimg" src="../img/cantinhodase1.jpg">`;
+    infimg4.innerHTML = `<img class="infimg" src="../img/cantinhodase2.jpg">`;
+    infimg5.innerHTML = `<img class="infimg" src="../img/cantinhodase1.jpg">`;
     inftxt.innerHTML += `Cantinho da Sé`;
     inftxtcont.innerHTML += `Comida regional farta e bem temperada pode ser facime encontrada no restaurante. Em funcionamento há mais de 40 anos  apresenta a mesma qualidade da ma localizada em Olinda. O Peixe ao molho de camarão pecialidade da casa, seguido da carne de sol sertaneja, decorada com pimentões e ervilha ao molho de ta arroz, farofa de jerimum, feijão e macaxeira frita. També ficam atrás o cozido de chambaril com arroz, piro e o galeto na brasa, servida para três pessoas.`;
     inftxth.innerHTML += "";
