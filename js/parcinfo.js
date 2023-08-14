@@ -28,9 +28,9 @@ info00.onclick = function() {
     posts.style.display = 'block';
     html.style.overflow = 'hidden';
     infimg2.innerHTML = `<img class="infimg" src="../img/artegrill1.jpg">`;
-    infimg3.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
-    infimg4.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
-    infimg5.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
+    infimg3.innerHTML = `<img class="infimg" src="../img/artegrill2.jpg">`;
+    infimg4.innerHTML = `<img class="infimg" src="../img/artegrill1.jpg">`;
+    infimg5.innerHTML = `<img class="infimg" src="../img/artegrill2.jpg">`;
     inftxt.innerHTML += `Arte & Grill`;
     inftxtcont.innerHTML += `O Restaurante Art Grill de Olinda com um cardápio Regional há mais de 20 anos de existência, é um dos restaurantes mais bonitos do Alto da Sé de Olinda, especialista em frutos do mar e comidas regionais e com uma excelente Peixada ao molho de camarão, tem uma vista privilegiada da cidade historica e instalações aconchegantes. Tudo isso, somado a um variado cardápio, faz do Art Gril  um  lugar perfeito para suas refeições.`;
     inftxth.innerHTML += `Das 8h ás 18h`;
@@ -53,7 +53,7 @@ info00.onclick = function() {
     align-items: center;
     transition: 0.2s;
     "></div>
-    <a target="_blank" href="" id="cvisit" class="c wats tw" style="position: relative;top: 181px;left: -15px;cursor: pointer;">
+    <a target="_blank" href="https://www.instagram.com/olindaartgrill/" id="cvisit" class="c wats tw" style="position: relative;top: 181px;left: -15px;cursor: pointer;">
         <h1 class="ctw t">Visitar</h1></a>
 </label>`;
 
@@ -67,7 +67,7 @@ info02.onclick = function() {
     infimg2.innerHTML = `<img class="infimg" src="../img/boiebrasa2.jpg">`;
     infimg3.innerHTML = `<img class="infimg" src="../img/boiebrasa3.jpg">`;
     infimg4.innerHTML = `<img class="infimg" src="../img/boiebrasa4.jpg">`;
-    infimg5.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
+    infimg5.innerHTML = `<img class="infimg" src="../img/boiebrasa1.jpg">`;
     inftxt.innerHTML += `Churrascaria Boi e Brasa`;
     inftxtcont.innerHTML += `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.`;
     inftxth.innerHTML += "";
@@ -126,7 +126,7 @@ info03.onclick = function() {
     align-items: center;
     transition: 0.2s;
     "></div>
-    <a target="_blank" href="" id="cvisit" class="c wats tw" style="position: relative;top: 181px;left: -15px;cursor: pointer;">
+    <a target="_blank" href="https://www.instagram.com/cantinhodaseolinda/" id="cvisit" class="c wats tw" style="position: relative;top: 181px;left: -15px;cursor: pointer;">
         <h1 class="ctw t">Visitar</h1></a>
 </label>`;
 }
@@ -136,10 +136,10 @@ info04.onclick = function() {
     infimg.innerHTML = `<img class="infimg" src="../img/galeriasaosalvador.jpg">`;
     posts.style.display = 'block';
     html.style.overflow = 'hidden';
-    infimg2.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
-    infimg3.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
-    infimg4.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
-    infimg5.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
+    infimg2.innerHTML = `<img class="infimg" src="../img/galeriasaosalvador.jpg">`;
+    infimg3.innerHTML = `<img class="infimg" src="../img/galeriasaosalvador.jpg">`;
+    infimg4.innerHTML = `<img class="infimg" src="../img/galeriasaosalvador.jpg">`;
+    infimg5.innerHTML = `<img class="infimg" src="../img/galeriasaosalvador.jpg">`;
     inftxt.innerHTML += `Galeria São Salvador`;
     inftxtcont.innerHTML += `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.`;
     inftxth.innerHTML += "";
@@ -162,7 +162,7 @@ info04.onclick = function() {
     align-items: center;
     transition: 0.2s;
     "></div>
-    <a target="_blank" href="" id="cvisit" class="c wats tw" style="position: relative;top: 181px;left: -15px;cursor: pointer;">
+    <a target="_blank" href="https://www.instagram.com/galeriasaosalvador/" id="cvisit" class="c wats tw" style="position: relative;top: 181px;left: -15px;cursor: pointer;">
         <h1 class="ctw t">Visitar</h1></a>
 </label>`;
 }
@@ -172,10 +172,10 @@ info05.onclick = function() {
     infimg.innerHTML = `<img class="infimg" src="../img/imaginario1.jpg">`;
     posts.style.display = 'block';
     html.style.overflow = 'hidden';
-    infimg2.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
-    infimg3.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
-    infimg4.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
-    infimg5.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
+    infimg2.innerHTML = `<img class="infimg" src="../img/imaginario1.jpg">`;
+    infimg3.innerHTML = `<img class="infimg" src="../img/imaginario1.jpg">`;
+    infimg4.innerHTML = `<img class="infimg" src="../img/imaginario1.jpg">`;
+    infimg5.innerHTML = `<img class="infimg" src="../img/imaginario1.jpg">`;
     inftxt.innerHTML += `Imaginário Brasileiro artesanato`;
     inftxtcont.innerHTML += `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.`;
     inftxth.innerHTML += "";
@@ -246,8 +246,8 @@ info10.onclick = function() {
     html.style.overflow = 'hidden';
     infimg2.innerHTML = `<img class="infimg" src="../img/sorveteriaolinda2.jpg">`;
     infimg3.innerHTML = `<img class="infimg" src="../img/sorveteriaolinda3.jpg">`;
-    infimg4.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
-    infimg5.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
+    infimg4.innerHTML = `<img class="infimg" src="../img/sorveteriaolinda1.jpg">`;
+    infimg5.innerHTML = `<img class="infimg" src="../img/sorveteriaolinda3.jpg">`;
     inftxt.innerHTML += `Sorvetes Olinda`;
     inftxtcont.innerHTML += `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.`;
     inftxth.innerHTML += "";
@@ -270,7 +270,7 @@ info10.onclick = function() {
     align-items: center;
     transition: 0.2s;
     "></div>
-    <a target="_blank" href="" id="cvisit" class="c wats tw" style="position: relative;top: 181px;left: -15px;cursor: pointer;">
+    <a target="_blank" href="https://www.instagram.com/sorveteriaolinda/" id="cvisit" class="c wats tw" style="position: relative;top: 181px;left: -15px;cursor: pointer;">
         <h1 class="ctw t">Visitar</h1></a>
 </label>`;
 }
@@ -280,10 +280,10 @@ info14.onclick = function() {
     infimg.innerHTML = `<img class="infimg" src="../img/cincosois1.jpg">`;
     posts.style.display = 'block';
     html.style.overflow = 'hidden';
-    infimg2.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
-    infimg3.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
-    infimg4.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
-    infimg5.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
+    infimg2.innerHTML = `<img class="infimg" src="../img/cincosois1.jpg">`;
+    infimg3.innerHTML = `<img class="infimg" src="../img/cincosois1.jpg">`;
+    infimg4.innerHTML = `<img class="infimg" src="../img/cincosois1.jpg">`;
+    infimg5.innerHTML = `<img class="infimg" src="../img/cincosois1.jpg">`;
     inftxt.innerHTML += `Hotel 5 Sóis`;
     inftxtcont.innerHTML += `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.`;
     inftxth.innerHTML += "";
@@ -306,7 +306,7 @@ info14.onclick = function() {
     align-items: center;
     transition: 0.2s;
     "></div>
-    <a target="_blank" href="" id="cvisit" class="c wats tw" style="position: relative;top: 181px;left: -15px;cursor: pointer;">
+    <a target="_blank" href="https://www.instagram.com/hotel5sois/?hl=pt" id="cvisit" class="c wats tw" style="position: relative;top: 181px;left: -15px;cursor: pointer;">
         <h1 class="ctw t">Visitar</h1></a>
 </label>`;
 }
@@ -316,10 +316,10 @@ info15.onclick = function() {
     infimg.innerHTML = `<img class="infimg" src="../img/sambura1.jpg">`;
     posts.style.display = 'block';
     html.style.overflow = 'hidden';
-    infimg2.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
-    infimg3.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
-    infimg4.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
-    infimg5.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
+    infimg2.innerHTML = `<img class="infimg" src="../img/sambura1.jpg">`;
+    infimg3.innerHTML = `<img class="infimg" src="../img/sambura1.jpg">`;
+    infimg4.innerHTML = `<img class="infimg" src="../img/sambura1.jpg">`;
+    infimg5.innerHTML = `<img class="infimg" src="../img/sambura1.jpg">`;
     inftxt.innerHTML += `Hotel Samburá`;
     inftxtcont.innerHTML += `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.`;
     inftxth.innerHTML += "";
@@ -342,7 +342,7 @@ info15.onclick = function() {
     align-items: center;
     transition: 0.2s;
     "></div>
-    <a target="_blank" href="" id="cvisit" class="c wats tw" style="position: relative;top: 181px;left: -15px;cursor: pointer;">
+    <a target="_blank" href="https://www.instagram.com/hotelsamburaoficial/" id="cvisit" class="c wats tw" style="position: relative;top: 181px;left: -15px;cursor: pointer;">
         <h1 class="ctw t">Visitar</h1></a>
 </label>`;
 }
@@ -378,7 +378,7 @@ info16.onclick = function() {
     align-items: center;
     transition: 0.2s;
     "></div>
-    <a target="_blank" href="" id="cvisit" class="c wats tw" style="position: relative;top: 181px;left: -15px;cursor: pointer;">
+    <a target="_blank" href="https://costeiro.com.br/site/" id="cvisit" class="c wats tw" style="position: relative;top: 181px;left: -15px;cursor: pointer;">
         <h1 class="ctw t">Visitar</h1></a>
 </label>`;
 }
@@ -388,10 +388,10 @@ info18.onclick = function() {
     infimg.innerHTML = `<img class="infimg" src="../img/patteo1.jpg">`;
     posts.style.display = 'block';
     html.style.overflow = 'hidden';
-    infimg2.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
-    infimg3.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
-    infimg4.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
-    infimg5.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
+    infimg2.innerHTML = `<img class="infimg" src="../img/patteo1.jpg">`;
+    infimg3.innerHTML = `<img class="infimg" src="../img/patteo1.jpg">`;
+    infimg4.innerHTML = `<img class="infimg" src="../img/patteo1.jpg">`;
+    infimg5.innerHTML = `<img class="infimg" src="../img/patteo1.jpg">`;
     inftxt.innerHTML += `Shopping Patteo Olinda`;
     inftxtcont.innerHTML += `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.`;
     inftxth.innerHTML += "";
@@ -414,7 +414,7 @@ info18.onclick = function() {
     align-items: center;
     transition: 0.2s;
     "></div>
-    <a target="_blank" href="" id="cvisit" class="c wats tw" style="position: relative;top: 181px;left: -15px;cursor: pointer;">
+    <a target="_blank" href="https://www.shoppingpatteoolinda.com.br" id="cvisit" class="c wats tw" style="position: relative;top: 181px;left: -15px;cursor: pointer;">
         <h1 class="ctw t">Visitar</h1></a>
 </label>`;
 }
@@ -425,9 +425,9 @@ info019.onclick = function() {
     posts.style.display = 'block';
     html.style.overflow = 'hidden';
     infimg2.innerHTML = `<img class="infimg" src="../img/garagemtapioca2.jpg">`;
-    infimg3.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
-    infimg4.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
-    infimg5.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
+    infimg3.innerHTML = `<img class="infimg" src="../img/garagemtapioca1.jpg">`;
+    infimg4.innerHTML = `<img class="infimg" src="../img/garagemtapioca2.jpg">`;
+    infimg5.innerHTML = `<img class="infimg" src="../img/garagemtapioca1.jpg">`;
     inftxt.innerHTML += `Garagem Tapiocaria`;
     inftxtcont.innerHTML += `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.`;
     inftxth.innerHTML += "";
@@ -450,7 +450,7 @@ info019.onclick = function() {
     align-items: center;
     transition: 0.2s;
     "></div>
-    <a target="_blank" href="https://www.instagram.com/reel/CtuZ3psoFOh/?igshid=MTc4MmM1YmI2Ng==" id="cvisit" class="c wats tw" style="position: relative;top: 181px;left: -15px;cursor: pointer;">
+    <a target="_blank" href="https://www.instagram.com/garagemtapiocaria/?hl=pt" id="cvisit" class="c wats tw" style="position: relative;top: 181px;left: -15px;cursor: pointer;">
         <h1 class="ctw t">Visitar</h1></a>
 </label>`;
 }
@@ -508,7 +508,7 @@ info001.onclick = function() {
     align-items: center;
     transition: 0.2s;
     "></div>
-    <a target="_blank" href="" id="cvisit" class="c wats tw" style="position: relative;top: 181px;left: -15px;cursor: pointer;">
+    <a target="_blank" href="https://www.instagram.com/olindaartgrill/" id="cvisit" class="c wats tw" style="position: relative;top: 181px;left: -15px;cursor: pointer;">
         <h1 class="ctw t">Visitar</h1></a>
 </label>`;
 }
@@ -520,7 +520,7 @@ info002.onclick = function() {
     infimg2.innerHTML = `<img class="infimg" src="../img/boiebrasa2.jpg">`;
     infimg3.innerHTML = `<img class="infimg" src="../img/boiebrasa3.jpg">`;
     infimg4.innerHTML = `<img class="infimg" src="../img/boiebrasa4.jpg">`;
-    infimg5.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
+    infimg5.innerHTML = `<img class="infimg" src="../img/boiebrasa1.jpg">`;
     inftxt.innerHTML += `Churrascaria Boi e Brasa`;
     inftxtcont.innerHTML += `O Boi & Brasa churrascaria em Olinda é conhecido por sua deliciosa carne e atmosfera climatizada. É um local ideal para desfrutar da culinária com amigos e familiares, localizado em uma avenida privilegiada da cidade.`;
     inftxth.innerHTML += "";
@@ -553,9 +553,9 @@ info003.onclick = function() {
     posts.style.display = 'block';
     html.style.overflow = 'hidden';
     infimg2.innerHTML = `<img class="infimg" src="../img/cantinhodase2.jpg">`;
-    infimg3.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
-    infimg4.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
-    infimg5.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
+    infimg3.innerHTML = `<img class="infimg" src="../img/cantinhodase1.jpg">`;
+    infimg4.innerHTML = `<img class="infimg" src="../img/cantinhodase2.jpg">`;
+    infimg5.innerHTML = `<img class="infimg" src="../img/cantinhodase1.jpg">`;
     inftxt.innerHTML += `Cantinho da Sé`;
     inftxtcont.innerHTML += `Comida regional farta e bem temperada pode ser facime encontrada no restaurante. Em funcionamento há mais de 40 anos  apresenta a mesma qualidade da ma localizada em Olinda. O Peixe ao molho de camarão pecialidade da casa, seguido da carne de sol sertaneja, decorada com pimentões e ervilha ao molho de ta arroz, farofa de jerimum, feijão e macaxeira frita. També ficam atrás o cozido de chambaril com arroz, piro e o galeto na brasa, servida para três pessoas.`;
     inftxth.innerHTML += "";
@@ -578,7 +578,7 @@ info003.onclick = function() {
     align-items: center;
     transition: 0.2s;
     "></div>
-    <a target="_blank" href="" id="cvisit" class="c wats tw" style="position: relative;top: 181px;left: -15px;cursor: pointer;">
+    <a target="_blank" href="https://www.instagram.com/cantinhodaseolinda/" id="cvisit" class="c wats tw" style="position: relative;top: 181px;left: -15px;cursor: pointer;">
         <h1 class="ctw t">Visitar</h1></a>
 </label>`;
 }
@@ -588,9 +588,9 @@ info0019.onclick = function() {
     posts.style.display = 'block';
     html.style.overflow = 'hidden';
     infimg2.innerHTML = `<img class="infimg" src="../img/garagemtapioca2.jpg">`;
-    infimg3.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
-    infimg4.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
-    infimg5.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
+    infimg3.innerHTML = `<img class="infimg" src="../img/garagemtapioca1.jpg">`;
+    infimg4.innerHTML = `<img class="infimg" src="../img/garagemtapioca2.jpg">`;
+    infimg5.innerHTML = `<img class="infimg" src="../img/garagemtapioca1.jpg">`;
     inftxt.innerHTML += `Garagem Tapiocaria`;
     inftxtcont.innerHTML += `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.`;
     inftxth.innerHTML += "";
@@ -622,10 +622,10 @@ info004.onclick = function() {
     infimg.innerHTML = `<img class="infimg" src="../img/galeriasaosalvador.jpg">`;
     posts.style.display = 'block';
     html.style.overflow = 'hidden';
-    infimg2.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
-    infimg3.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
-    infimg4.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
-    infimg5.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
+    infimg2.innerHTML = `<img class="infimg" src="../img/galeriasaosalvador.jpg">`;
+    infimg3.innerHTML = `<img class="infimg" src="../img/galeriasaosalvador.jpg">`;
+    infimg4.innerHTML = `<img class="infimg" src="../img/galeriasaosalvador.jpg">`;
+    infimg5.innerHTML = `<img class="infimg" src="../img/galeriasaosalvador.jpg">`;
     inftxt.innerHTML += `Galeria São Salvador`;
     inftxtcont.innerHTML += `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.`;
     inftxth.innerHTML += "";
@@ -648,7 +648,7 @@ info004.onclick = function() {
     align-items: center;
     transition: 0.2s;
     "></div>
-    <a target="_blank" href="" id="cvisit" class="c wats tw" style="position: relative;top: 181px;left: -15px;cursor: pointer;">
+    <a target="_blank" href="https://www.instagram.com/galeriasaosalvador/" id="cvisit" class="c wats tw" style="position: relative;top: 181px;left: -15px;cursor: pointer;">
         <h1 class="ctw t">Visitar</h1></a>
 </label>`;
 }
@@ -657,10 +657,10 @@ info005.onclick = function() {
     infimg.innerHTML = `<img class="infimg" src="../img/imaginario1.jpg">`;
     posts.style.display = 'block';
     html.style.overflow = 'hidden';
-    infimg2.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
-    infimg3.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
-    infimg4.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
-    infimg5.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
+    infimg2.innerHTML = `<img class="infimg" src="../img/imaginario1.jpg">`;
+    infimg3.innerHTML = `<img class="infimg" src="../img/imaginario1.jpg">`;
+    infimg4.innerHTML = `<img class="infimg" src="../img/imaginario1.jpg">`;
+    infimg5.innerHTML = `<img class="infimg" src="../img/imaginario1.jpg">`;
     inftxt.innerHTML += `Imaginário Brasileiro artesanato`;
     inftxtcont.innerHTML += `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.`;
     inftxth.innerHTML += "";
@@ -694,8 +694,8 @@ info006.onclick = function() {
     html.style.overflow = 'hidden';
     infimg2.innerHTML = `<img class="infimg" src="../img/sorveteriaolinda2.jpg">`;
     infimg3.innerHTML = `<img class="infimg" src="../img/sorveteriaolinda3.jpg">`;
-    infimg4.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
-    infimg5.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
+    infimg4.innerHTML = `<img class="infimg" src="../img/sorveteriaolinda1.jpg">`;
+    infimg5.innerHTML = `<img class="infimg" src="../img/sorveteriaolinda2.jpg">`;
     inftxt.innerHTML += `Galeria Di Farias`;
     inftxtcont.innerHTML += `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.`;
     inftxth.innerHTML += "";
@@ -718,7 +718,7 @@ info006.onclick = function() {
     align-items: center;
     transition: 0.2s;
     "></div>
-    <a target="_blank" href="" id="cvisit" class="c wats tw" style="position: relative;top: 181px;left: -15px;cursor: pointer;">
+    <a target="_blank" href="https://www.instagram.com/sorveteriaolinda/" id="cvisit" class="c wats tw" style="position: relative;top: 181px;left: -15px;cursor: pointer;">
         <h1 class="ctw t">Visitar</h1></a>
 </label>`;
 }
@@ -753,7 +753,7 @@ info007.onclick = function() {
     align-items: center;
     transition: 0.2s;
     "></div>
-    <a target="_blank" href="" id="cvisit" class="c wats tw" style="position: relative;top: 181px;left: -15px;cursor: pointer;">
+    <a target="_blank" href="https://www.instagram.com/sorveteriaolinda/" id="cvisit" class="c wats tw" style="position: relative;top: 181px;left: -15px;cursor: pointer;">
         <h1 class="ctw t">Visitar</h1></a>
 </label>`;
 }
@@ -762,10 +762,10 @@ info008.onclick = function() {
     infimg.innerHTML = `<img class="infimg" src="../img/cincosois1.jpg">`;
     posts.style.display = 'block';
     html.style.overflow = 'hidden';
-    infimg2.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
-    infimg3.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
-    infimg4.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
-    infimg5.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
+    infimg2.innerHTML = `<img class="infimg" src="../img/cincosois1.jpg">`;
+    infimg3.innerHTML = `<img class="infimg" src="../img/cincosois1.jpg">`;
+    infimg4.innerHTML = `<img class="infimg" src="../img/cincosois1.jpg">`;
+    infimg5.innerHTML = `<img class="infimg" src="../img/cincosois1.jpg">`;
     inftxt.innerHTML += `Hotel 5 Sóis`;
     inftxtcont.innerHTML += `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.`;
     inftxth.innerHTML += "";
@@ -788,7 +788,7 @@ info008.onclick = function() {
     align-items: center;
     transition: 0.2s;
     "></div>
-    <a target="_blank" href="" id="cvisit" class="c wats tw" style="position: relative;top: 181px;left: -15px;cursor: pointer;">
+    <a target="_blank" href="https://www.instagram.com/hotel5sois/?hl=pt" id="cvisit" class="c wats tw" style="position: relative;top: 181px;left: -15px;cursor: pointer;">
         <h1 class="ctw t">Visitar</h1></a>
 </label>`;
 }
@@ -797,10 +797,10 @@ info009.onclick = function() {
     infimg.innerHTML = `<img class="infimg" src="../img/sambura1.jpg">`;
     posts.style.display = 'block';
     html.style.overflow = 'hidden';
-    infimg2.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
-    infimg3.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
-    infimg4.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
-    infimg5.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
+    infimg2.innerHTML = `<img class="infimg" src="../img/sambura1.jpg">`;
+    infimg3.innerHTML = `<img class="infimg" src="../img/sambura1.jpg">`;
+    infimg4.innerHTML = `<img class="infimg" src="../img/sambura1.jpg">`;
+    infimg5.innerHTML = `<img class="infimg" src="../img/sambura1.jpg">`;
     inftxt.innerHTML += `Hotel Samburá`;
     inftxtcont.innerHTML += `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.`;
     inftxth.innerHTML += "";
@@ -823,7 +823,7 @@ info009.onclick = function() {
     align-items: center;
     transition: 0.2s;
     "></div>
-    <a target="_blank" href="" id="cvisit" class="c wats tw" style="position: relative;top: 181px;left: -15px;cursor: pointer;">
+    <a target="_blank" href="https://www.instagram.com/hotelsamburaoficial/" id="cvisit" class="c wats tw" style="position: relative;top: 181px;left: -15px;cursor: pointer;">
         <h1 class="ctw t">Visitar</h1></a>
 </label>`;
 }
@@ -832,10 +832,10 @@ info0010.onclick = function() {
     infimg.innerHTML = `<img class="infimg" src="../img/costeiro1.jpg">`;
     posts.style.display = 'block';
     html.style.overflow = 'hidden';
-    infimg2.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
-    infimg3.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
-    infimg4.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
-    infimg5.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
+    infimg2.innerHTML = `<img class="infimg" src="../img/costeiro1.jpg">`;
+    infimg3.innerHTML = `<img class="infimg" src="../img/costeiro1.jpg">`;
+    infimg4.innerHTML = `<img class="infimg" src="../img/costeiro1.jpg">`;
+    infimg5.innerHTML = `<img class="infimg" src="../img/costeiro1.jpg">`;
     inftxt.innerHTML += `Hotel Costeiro`;
     inftxtcont.innerHTML += `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.`;
     inftxth.innerHTML += "";
@@ -858,7 +858,7 @@ info0010.onclick = function() {
     align-items: center;
     transition: 0.2s;
     "></div>
-    <a target="_blank" href="" id="cvisit" class="c wats tw" style="position: relative;top: 181px;left: -15px;cursor: pointer;">
+    <a target="_blank" href="https://costeiro.com.br/site/" id="cvisit" class="c wats tw" style="position: relative;top: 181px;left: -15px;cursor: pointer;">
         <h1 class="ctw t">Visitar</h1></a>
 </label>`;
 }
@@ -867,10 +867,10 @@ info0011.onclick = function() {
     infimg.innerHTML = `<img class="infimg" src="../img/patteo1.jpg">`;
     posts.style.display = 'block';
     html.style.overflow = 'hidden';
-    infimg2.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
-    infimg3.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
-    infimg4.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
-    infimg5.innerHTML = `<img class="infimg" src="../img/BiuTurIMG (1).jpg">`;
+    infimg2.innerHTML = `<img class="infimg" src="../img/patteo1.jpg">`;
+    infimg3.innerHTML = `<img class="infimg" src="../img/patteo1.jpg">`;
+    infimg4.innerHTML = `<img class="infimg" src="../img/patteo1.jpg">`;
+    infimg5.innerHTML = `<img class="infimg" src="../img/patteo1.jpg">`;
     inftxt.innerHTML += `Shopping Patteo Olinda`;
     inftxtcont.innerHTML += `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.`;
     inftxth.innerHTML += "";
@@ -893,7 +893,7 @@ info0011.onclick = function() {
     align-items: center;
     transition: 0.2s;
     "></div>
-    <a target="_blank" href="" id="cvisit" class="c wats tw" style="position: relative;top: 181px;left: -15px;cursor: pointer;">
+    <a target="_blank" href="https://www.shoppingpatteoolinda.com.br" id="cvisit" class="c wats tw" style="position: relative;top: 181px;left: -15px;cursor: pointer;">
         <h1 class="ctw t">Visitar</h1></a>
 </label>`;
 }
